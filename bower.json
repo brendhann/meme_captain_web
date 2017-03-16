@@ -1,0 +1,25 @@
+{
+  "name": "brendhann",
+  "version": "1.0",
+  "authors": [
+    "Brendhann Prior<hostmaster@bdtp.biz>"
+  ],
+  "description": "Pictures, Meme, Hobby",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.0",
+    "modernizr": "~2.8.3" 
+  }
+}</hostmaster@bdtp.biz>
+ 

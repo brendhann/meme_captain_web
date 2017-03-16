@@ -14,10 +14,24 @@ gem 'dynamic_form', '~> 1.1', '>= 1.1.4'
 gem 'faraday', '~> 0.11.0'
 gem 'faraday-cookie_jar', '~> 0.0.6'
 gem 'faraday_middleware', '~> 0.11.0.1'
+
+gem 'sprockets-rails'
 gem 'jquery-rails', '~> 4.2', '>= 4.2.2'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'json', '~> 2.0', '>= 2.0.3'
+#gem 'npm-rails', '~> 0.2.1'
+
+#
+
+gem 'bower', '~> 0.0.5'
+
+#
+
+
+#
 gem 'kaminari', '~> 1.0', '>= 1.0.1'
 gem 'kaminari-bootstrap', '~> 3.0.1'
-gem 'less-rails', '~> 2.8'
+
 gem 'local_time', '~> 1.0.3'
 gem 'meme_captain',
     git: 'https://github.com/mmb/meme_captain.git',
